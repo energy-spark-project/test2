@@ -1,0 +1,63 @@
+.nav-item {
+    position: relative;
+    right: 200px;
+    bottom: 150px;
+    margin: 5px;
+}
+
+a {
+    color: var(--navbar-link-default, rgba(0, 0, 0, 0.55));
+    text-align: center;
+    font-family: Neucha;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    /* 32px */
+    border-radius: 15px;
+    padding: 6px 12px;
+    background-image: linear-gradient(#F85008CF, #F8D208A6, #63A048A6, #5073D8);
+    /* Fill the inside with white */
+    background-origin: border-box;
+    box-shadow: inset 0 100vw white;
+    /* A transparent border, so the very edge of the button shows through */
+    border: 3px solid transparent;
+}
+
+.header {
+    position: absolute;
+    width: 100%;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: 150px;
+    height: 150px;
+
+}
+
+.leftcloud {
+    position: relative;
+    top: 30px;
+}
+
+.douknow {
+    position: absolute;
+    width: 722.32px;
+    height: 203.61px;
+    transform: rotate(-5.49deg);
+    transform-origin: 0 0;
+    text-align: center;
+    color: #5073D8;
+    font-size: 100px;
+    font-family: Paytone One;
+    font-weight: 400;
+    line-height: 160px;
+    bottom: 50px;
+    left: 100px;
+    word-wrap: break-word"
+
+}
